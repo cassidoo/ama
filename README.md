@@ -16,6 +16,10 @@ Yes, from Iowa State University. I don't regret it at all, and loved going there
 
 Large companies are really good at teaching you. They'll make sure you learn what you need to be productive for whichever teams they put you on. Small companies are great for career development and applying learnings. I personally prefer small companies, but some people prefer large companies. I'd say it's more important to pursue a company culture you want than a size.
 
+**Will you be my mentor?**
+
+No, but thank you for asking! I'm a very strong believer in building professional relationships that lead to mentorship, and not asking someone to be your mentor upfront. I do have an awesome [Patreon Discord Community](https://www.patreon.com/cassidoo) though where we advise each other, hang out, and learn together. If you are looking for something like that, I'm biased, but it's my favorite little corner of the internet.
+
 **What mechanical keyboard should I buy?**
 
 There's so many out there. I recommend reading [Isabela's article](https://drop.com/talk/10016/anatomy-of-a-mechanical-keyboard?utm_source=linkshare&referer=EEA27B) first and do your research. [Drop](https://drop.com/?referer=EEA27B) is a great spot for buying keyboards and supplies, and so is [The Key Dot Company](https://thekey.company/), [keeb.io](https://keeb.io/), [NovelKeys](https://novelkeys.xyz/), [Dixie Mech](https://dixiemech.com/), [Pimp My Keyboard](https://pimpmykeyboard.com/), and [Kono Store](https://kono.store/). Figure out the budget and size you want and go from there. You can spend as little as $30 and as much as over $1000, depending on the things you want in a keyboard!
