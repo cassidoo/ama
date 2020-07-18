@@ -66,3 +66,6 @@ I've definitely encountered all sorts of negative stereotypes and interactions. 
 
 Yes. I like it. Work shouldn't be your life.
 
+**Where do you get your inspiration for your videos?**
+
+Honestly, I just kind of collect song lyrics that I think would be fun if I added a dev "twist" to them, and if I think of a pun or something on any given day I try to write it down right away. Some ideas I stew on for a couple days (or weeks or months!), and some are spur of the moment immediate ones. 
