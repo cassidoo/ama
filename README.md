@@ -8,6 +8,22 @@ I'll answer most questions in those issues, but if they come up often enough, I'
 
 ## FAQs
 
+ * [Do you have a CS degree? Do you regret it?](#do-you-have-a-cs-degree-do-you-regret-it)
+ * [Should I work for a big company or a small company for my first job?](#should-i-work-for-a-big-company-or-a-small-company-for-my-first-job)
+ * [Will you be my mentor?](#will-you-be-my-mentor)
+ * [What mechanical keyboard should I buy?](#what-mechanical-keyboard-should-i-buy)
+ * [What editor do you use?](#what-editor-do-you-use)
+ * [What font do you use for coding?](#what-font-do-you-use-for-coding)
+ * [What tech do you use at your desk?](#what-tech-do-you-use-at-your-desk)
+ * [Why did you make todometer when there are so many to-do apps that already exist?](#why-did-you-make-todometer-when-there-are-so-many-to-do-apps-that-already-exist)
+ * [What inspired you to learn how to code?](#what-inspired-you-to-learn-how-to-code)
+ * [What advice do you have for those who want to get into STEM?](#what-advice-do-you-have-for-those-who-want-to-get-into-stem)
+ * [What is a typical day like for you as a remote engineer?](#what-is-a-typical-day-like-for-you-as-a-remote-engineer)
+ * [Aside from technical skills, what personality traits/characteristics make for an ideal candidate in your role?](#aside-from-technical-skills-what-personality-traitscharacteristics-make-for-an-ideal-candidate-in-your-role)
+ * [Have you experienced any sort of discrimination as a woman in tech?](#have-you-experienced-any-sort-of-discrimination-as-a-woman-in-tech)
+ * [Do you have any thoughts on work/life balance?](#do-you-have-any-thoughts-on-worklife-balance)
+ * [Where do you get your inspiration for your videos?](#where-do-you-get-your-inspiration-for-your-videos)
+
 ### Do you have a CS degree? Do you regret it?
 
 Yes, from Iowa State University. I don't regret it at all, and loved going there. It's different for everyone though, so I won't tell you to get one.
