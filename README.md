@@ -8,6 +8,7 @@ I'll answer most questions in those issues, but if they come up often enough, I'
 
 ## FAQs
 
+**Question list**
  * [Do you have a CS degree? Do you regret it?](#do-you-have-a-cs-degree-do-you-regret-it)
  * [Should I work for a big company or a small company for my first job?](#should-i-work-for-a-big-company-or-a-small-company-for-my-first-job)
  * [Will you be my mentor?](#will-you-be-my-mentor)
