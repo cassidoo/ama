@@ -13,6 +13,7 @@ I'll answer most questions in those issues, but if they come up often enough, I'
  * [Should I work for a big company or a small company for my first job?](#should-i-work-for-a-big-company-or-a-small-company-for-my-first-job)
  * [Will you be my mentor?](#will-you-be-my-mentor)
  * [What mechanical keyboard should I buy?](#what-mechanical-keyboard-should-i-buy)
+ * [What keyboard things did you design?](#what-keyboard-things-did-you-design)
  * [What editor do you use?](#what-editor-do-you-use)
  * [What font do you use for coding?](#what-font-do-you-use-for-coding)
  * [What tech do you use at your desk?](#what-tech-do-you-use-at-your-desk)
@@ -40,6 +41,13 @@ No, but thank you for asking! I'm a very strong believer in building professiona
 ### What mechanical keyboard should I buy?
 
 There's so many out there. I recommend reading [Isabela's article](https://drop.com/talk/10016/anatomy-of-a-mechanical-keyboard?utm_source=linkshare&referer=EEA27B) first and do your research. [Drop](https://drop.com/?referer=EEA27B) is a great spot for buying keyboards and supplies, and so is [The Key Dot Company](https://thekey.company/), [keeb.io](https://keeb.io/), [NovelKeys](https://novelkeys.xyz/), [Dixie Mech](https://dixiemech.com/), [Pimp My Keyboard](https://pimpmykeyboard.com/), and [Kono Store](https://kono.store/). Figure out the budget and size you want and go from there. You can spend as little as $30 and as much as over $1000, depending on the things you want in a keyboard!
+
+### What keyboard things did you design?
+
+I designed these keycap sets!
+- [XDA Scrabble](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
+- [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
+- [DSS Tecla](https://pimpmykeyboard.com/dss-tecla-keyset-two-shot/)
 
 ### What editor do you use?
 
