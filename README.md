@@ -25,6 +25,7 @@ I'll answer most questions in those issues, but if they come up often enough, I'
  * [Have you experienced any sort of discrimination as a woman in tech?](#have-you-experienced-any-sort-of-discrimination-as-a-woman-in-tech)
  * [Do you have any thoughts on work/life balance?](#do-you-have-any-thoughts-on-worklife-balance)
  * [Where do you get your inspiration for your videos?](#where-do-you-get-your-inspiration-for-your-videos)
+ * [Do you do angel investing?](#do-you-do-angel-investing)
 
 ### Do you have a CS degree? Do you regret it?
 
@@ -94,3 +95,7 @@ Yes. I like it. Work shouldn't be your life.
 ### Where do you get your inspiration for your videos?
 
 Honestly, I just kind of collect song lyrics that I think would be fun if I added a dev "twist" to them, and if I think of a pun or something on any given day I try to write it down right away. Some ideas I stew on for a couple days (or weeks or months!), and some are spur of the moment immediate ones. 
+
+### Do you do angel investing?
+
+I do! I'm still kind of a noob at it but I've invested both my own money and do scouting with a couple firms. I love investing in developer tools and underrepresented minority-driven companies.
