@@ -41,7 +41,7 @@ No, but thank you for asking! I'm a very strong believer in building professiona
 
 ### What mechanical keyboard should I buy?
 
-There's so many out there. I recommend reading [Isabela's article](https://drop.com/talk/10016/anatomy-of-a-mechanical-keyboard?utm_source=linkshare&referer=EEA27B) first and do your research. [Drop](https://drop.com/?referer=EEA27B) is a great spot for buying keyboards and supplies, and so is [The Key Dot Company](https://thekey.company/), [keeb.io](https://keeb.io/), [NovelKeys](https://novelkeys.xyz/), [Dixie Mech](https://dixiemech.com/), [Pimp My Keyboard](https://pimpmykeyboard.com/), and [Kono Store](https://kono.store/). Figure out the budget and size you want and go from there. You can spend as little as $30 and as much as over $1000, depending on the things you want in a keyboard!
+There's so many out there. I recommend reading [Isabela's article](https://drop.com/talk/10016/anatomy-of-a-mechanical-keyboard?utm_source=linkshare&referer=EEA27B) first and do your research. [Drop](https://drop.com/?referer=EEA27B) is a great spot for buying keyboards and supplies, and so is [The Key Dot Company](https://thekey.company/), [keeb.io](https://keeb.io/), [NovelKeys](https://novelkeys.xyz/), [Omnitype](https://omnitype.com/), [Pimp My Keyboard](https://pimpmykeyboard.com/), and [Kono Store](https://kono.store/). Figure out the budget and size you want and go from there. You can spend as little as $30 and as much as over $1000, depending on the things you want in a keyboard!
 
 ### What keyboard things did you design?
 
