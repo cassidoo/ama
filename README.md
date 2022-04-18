@@ -98,4 +98,4 @@ Honestly, I just kind of collect song lyrics that I think would be fun if I adde
 
 ### Do you do angel investing?
 
-I do! I'm still kind of a noob at it but I've invested both my own money and do scouting with a couple firms. I love investing in developer tools and underrepresented minority-driven companies.
+I do! I'm still kind of a noob at it but I've invested both my own money and do scouting with a couple firms. I also am now a Portfolio Partner for Developer Experience at OSS Capital! That basically means I help our portfolio companies with developer relations/developer experience hiring and strategies. I love investing in developer tools, productivity tools, OSS, and underrepresented minority-driven companies.
