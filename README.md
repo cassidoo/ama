@@ -50,6 +50,8 @@ I designed these keycap sets!
 - [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
 - [DSS Tecla](https://pimpmykeyboard.com/dss-tecla-keyset-two-shot/)
 
+I also designed [The Key](https://drop.com/buy/stack-overflow-the-key-macropad?utm_source=linkshare&referer=EEA27B)!
+
 ### What editor do you use?
 
 Currently VSCode. I also like vim.
