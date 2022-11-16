@@ -46,6 +46,7 @@ There's so many out there. I recommend reading [Isabela's article](https://drop.
 ### What keyboard things did you design?
 
 I designed these keycap sets!
+- [DSA Scrabble](https://www.clackeys.com/shopscrbl/)
 - [XDA Scrabble](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
 - [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
 - [DSS Tecla](https://pimpmykeyboard.com/dss-tecla-keyset-two-shot/)
