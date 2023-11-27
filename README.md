@@ -48,7 +48,7 @@ At a high level though, [Drop](https://drop.com/?referer=EEA27B) is a great spot
 ### What keyboard things did you design?
 
 I designed these keycap sets!
-- [DSA Scrabble](https://www.clackeys.com/shopscrbl/)
+- [DSA Scrabble](https://www.clackeys.com/scrabble)
 - [XDA Scrabble](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
 - [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
 - [DSS Tecla](https://pimpmykeyboard.com/dss-tecla-keyset-two-shot/)
@@ -103,4 +103,6 @@ Honestly, I just kind of collect song lyrics that I think would be fun if I adde
 
 ### Do you do angel investing?
 
-I do! I'm still kind of a noob at it but I've invested both my own money and do scouting with a couple firms. I also am now a Portfolio Partner for Developer Experience at OSS Capital! That basically means I help our portfolio companies with developer relations/developer experience hiring and strategies. I love investing in developer tools, productivity tools, OSS, and underrepresented minority-driven companies.
+I do! I'm still kind of a noob at it but I've invested both my own money and do scouting with a couple firms. I've also been Portfolio Partner for Developer Experience at OSS Capital (where I helped our portfolio companies with developer relations/developer experience hiring and strategies). I love investing in developer tools, productivity tools, OSS, and underrepresented minority-driven companies.
+
+That being said: if you want to pitch your company to me, I am usually open to it, but it's hard for me to find times to book calls these days for everyone. If you'd like to get on a pitch call, please send me as many details as you can upfront, first!
