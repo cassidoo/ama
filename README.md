@@ -48,7 +48,7 @@ At a high level though, [Drop](https://drop.com/?referer=EEA27B) is a great spot
 ### What keyboard things did you design?
 
 I designed these keycap sets!
-- [DSA Scrabble](https://www.clackeys.com/scrabble)
+- [DSA Scrabble](https://drop.com/buy/scrabble-kits?utm_source=linkshare&referer=EEA27B)
 - [XDA Scrabble](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
 - [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
 - [DSS Tecla](https://spkeyboards.com/collections/dss-keycaps/products/dss-tecla)
