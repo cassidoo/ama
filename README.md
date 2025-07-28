@@ -50,9 +50,9 @@ At a high level though, [Drop](https://drop.com/?referer=EEA27B) is a great spot
 I designed these keycap sets!
 - [DSA Scrabble](https://drop.com/buy/scrabble-kits?utm_source=linkshare&referer=EEA27B)
 - [XDA Scrabble](https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard)
-- [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://twitter.com/sailorhg))
+- [DSA Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?utm_source=linkshare&referer=EEA27B) (alongside [@sailorhg](https://bsky.app/profile/sailorhg.com))
 - [DSS Tecla](https://spkeyboards.com/collections/dss-keycaps/products/dss-tecla)
-- [PBT Jeju](https://kineticlabs.com/keycaps/polycaps/jeju-pbt)
+- [PBT Jeju](https://kineticlabs.com/keycaps/polycaps/jeju-pbt?ref=cassidoo)
 
 I also designed [The Key](https://drop.com/buy/stack-overflow-the-key-macropad?utm_source=linkshare&referer=EEA27B)!
 
